@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Maralcan</title>
-	<atom:link href="/http://maralkan.github.io//category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/http://maralkan.github.io//</link>
+	<atom:link href="httpmaralkan.github.io/TestWordPress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>httpmaralkan.github.io/TestWordPress/</link>
 	<description></description>
 	<lastBuildDate>Thu, 31 Aug 2023 03:13:16 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.3.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/http://maralkan.github.io//hello-world/</link>
-					<comments>/http://maralkan.github.io//hello-world/#comments</comments>
+		<link>httpmaralkan.github.io/TestWordPress/hello-world/</link>
+					<comments>httpmaralkan.github.io/TestWordPress/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[marvin]]></dc:creator>
 		<pubDate>Thu, 31 Aug 2023 03:13:16 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/http://maralkan.github.io//?p=1</guid>
+		<guid isPermaLink="false">httpmaralkan.github.io/TestWordPress/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/http://maralkan.github.io//hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>httpmaralkan.github.io/TestWordPress/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
