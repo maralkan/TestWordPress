@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Interesting Videos &#8211; MARALKAN</title>
+	<title>Sample Page - MARALKAN</title>
 	<atom:link href="https://maralkan.github.io/TestWordPress/category/interesting-videos/feed/" rel="self" type="application/rss+xml" />
 	<link>https://maralkan.github.io/TestWordPress/</link>
 	<description>Disciple. Professional. BOLD.</description>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.3.1</generator>
 
 <image>
-	<url>https://maralkan.github.io/TestWordPress/wp-content/uploads/2023/08/cropped-maralkan-logo-favicon-1-32x32.png</url>
-	<title>Interesting Videos &#8211; MARALKAN</title>
+	<url>https://maralkan.github.io/TestWordPress/wp-content/uploads/2023/08/maralkan-logo-favicon-3.png</url>
+	<title>Sample Page - MARALKAN</title>
 	<link>https://maralkan.github.io/TestWordPress/</link>
 	<width>32</width>
 	<height>32</height>
@@ -37,13 +37,16 @@
 				<category><![CDATA[Interesting Videos]]></category>
 		<guid isPermaLink="false">http://maralcan.wordpress.com/?p=37</guid>
 
-					<description><![CDATA[Nice video. Takes the viewer on an emotional tour. Narrated by Nicholas McKay Written &#38; Directed by Christopher Kezelos Original&#8230;]]></description>
+					<description><![CDATA[<p>Nice video. Takes the viewer on an emotional tour. Narrated by Nicholas McKay Written &#38; Directed by Christopher Kezelos Original&#8230;</p>
+<p>The post <a rel="nofollow" href="https://maralkan.github.io/TestWordPress/zero/">Zero</a> appeared first on <a rel="nofollow" href="https://maralkan.github.io/TestWordPress/">MARALKAN</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>Nice video. Takes the viewer on an emotional tour.</p>
 <p><iframe title="Zero - Part 1" width="640" height="360" src="https://www.youtube.com/embed/LOMbySJTKpg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 <p>Narrated by Nicholas McKay</p>
 <p>Written &amp; Directed by Christopher Kezelos</p>
 <p>Original Music by Kyls Burtland</p>
 <p>What do you make of it?</p>
+<p>The post <a rel="nofollow" href="https://maralkan.github.io/TestWordPress/zero/">Zero</a> appeared first on <a rel="nofollow" href="https://maralkan.github.io/TestWordPress/">MARALKAN</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://maralkan.github.io/TestWordPress/zero/feed/</wfw:commentRss>
